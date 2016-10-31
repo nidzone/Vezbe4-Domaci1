@@ -1,0 +1,5 @@
+c:\users\nidzo\onedrive\documents\visual studio 2015\Projects\Vezbe4Domaci1\Vezbe4Domaci1\bin\Debug\Vezbe4Domaci1.exe
+c:\users\nidzo\onedrive\documents\visual studio 2015\Projects\Vezbe4Domaci1\Vezbe4Domaci1\bin\Debug\Vezbe4Domaci1.pdb
+c:\users\nidzo\onedrive\documents\visual studio 2015\Projects\Vezbe4Domaci1\Vezbe4Domaci1\obj\Debug\Vezbe4Domaci1.csprojResolveAssemblyReference.cache
+c:\users\nidzo\onedrive\documents\visual studio 2015\Projects\Vezbe4Domaci1\Vezbe4Domaci1\obj\Debug\Vezbe4Domaci1.exe
+c:\users\nidzo\onedrive\documents\visual studio 2015\Projects\Vezbe4Domaci1\Vezbe4Domaci1\obj\Debug\Vezbe4Domaci1.pdb
